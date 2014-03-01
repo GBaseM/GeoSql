@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mob_mode">
+        <item>Normal</item>
+        <item>Meeting</item>
+        <item>Silent</item>
+        
+    </string-array>
+</resources>

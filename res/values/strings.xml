@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">SqliteDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+     <string-array name="modes">
+    <item >General</item>
+    <item >Silent</item>
+    <item >Meeting</item>
+    </string-array>
+	
+    
+
+</resources>
